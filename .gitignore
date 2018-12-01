@@ -1,0 +1,6 @@
+.idea
+venv
+lv3_targets
+lv3_label_list.csv
+__pycache__
+.DS_Store
